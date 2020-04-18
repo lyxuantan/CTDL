@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586420023 source:c:\users\tan\desktop\tan\ctdl\inserttionsort\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
